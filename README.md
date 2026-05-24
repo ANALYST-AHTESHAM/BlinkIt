@@ -218,7 +218,7 @@ cd blinkit-analysis
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANALYST-AHTESHAM)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/analyst-ahtesham)
 [![Portfolio](https://img.shields.io/badge/Portfolio-F9C923?style=for-the-badge&logo=vercel&logoColor=black)](https://your-portfolio.com)
 
 <br/>
@@ -235,6 +235,6 @@ cd blinkit-analysis
 
 **Made with 💛 and Power BI**
 
-*© 2026 Your Name · MIT License*
+*© 2026 Ahtesham Ahmad · MIT License*
 
 </div>
