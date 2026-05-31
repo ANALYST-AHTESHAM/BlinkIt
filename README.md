@@ -213,7 +213,7 @@ cd blinkit-analysis
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Your%20Name-Data%20Analyst-F9C923?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ahtesham Ahmad-Data%20Analyst-F9C923?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 <br/><br/>
 
